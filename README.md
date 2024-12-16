@@ -4,6 +4,6 @@ This project was inspired when I had finished a couple books this summer, and wa
 
 The tech that was used for this project was: python, pandas, and sklearn
 
-I was able to learn more about cosine similarities, and how to utilize them effectively for my needds in this specific project!
+I was able to learn more about cosine similarities, and how to utilize them effectively for my needs in this specific project!
 
 The data sets used can be found here: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
